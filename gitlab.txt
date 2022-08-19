@@ -4,3 +4,5 @@ git push -f    			/force push
 
 
 git commit --amend
+
+------------------------
