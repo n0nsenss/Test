@@ -1,0 +1,6 @@
+git rebase -i origin/master   /rebase
+- ukončiť      			/resolve conflits
+git push -f    			/force push
+
+
+git commit --amend
